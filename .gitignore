@@ -1,0 +1,8 @@
+# Папки
+bin
+obj
+.vs
+.idea
+
+# Файли
+temporary.txt
